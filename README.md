@@ -10,6 +10,11 @@ This project focuses on the detection and classification of images, specifically
 - Visualization: Various visualization techniques are employed to show the detection results and model performance.
 
 ## Notebooks
-– Image_Detection_1: Contains the initial setup, including loading the dataset and performing the initial data preprocessing steps.
+- Image_Detection_1: Contains the initial setup, including loading the dataset and performing the initial data preprocessing steps.
 - Image_Detection_2: Focuses on model building and training using CNNs.
 - Image_Detection_3: Evaluates the trained model and visualizes the results.
+
+## Results
+The final model achieved high accuracy in classifying images of birds and squirrels.
+Performance metrics like precision, recall, and F1-score were calculated to validate the model’s effectiveness.
+

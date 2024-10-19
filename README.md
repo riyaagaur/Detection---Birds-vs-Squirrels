@@ -1,1 +1,1 @@
-# Super-Resolution
+# Detection - Birds Vs Squirrels
